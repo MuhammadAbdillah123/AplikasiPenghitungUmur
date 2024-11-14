@@ -42,5 +42,5 @@ Aplikasi Penghitung Umur adalah program berbasis Java yang membantu pengguna men
 4. Jalankan kelas `PenghitungUmurFrame` untuk memulai aplikasi.
 
 ## Demo
-https://github.com/MuhammadAbdillah123/AplikasiPenghitungUmur/commit/5acb46b1d4c4d8d4ef147c878fb021247d44777f#diff-6461f910b92fd0416b3db2be2870c5813b3711c226a66078942d38b1d2c0f414
+![Demo GIF](img/Screen Recording 2024-11-14 210040.gif)
 
