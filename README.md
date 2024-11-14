@@ -10,8 +10,8 @@ Aplikasi Penghitung Umur adalah program berbasis Java yang membantu pengguna men
 
 ## Pembuat Aplikasi
 
-- **Nama**: Salsa Alya Istiqamh
-- **NIM**: 2210010089
+- **Nama**: Muhammad Abdillah
+- **NIM**: 2210010152
 - **Tugas**: Latihan 2
 
 ## Fitur
